@@ -7,6 +7,6 @@ Belajar kelas Dicoding
 * belajar membuat readme file
 * belajar mengedit file
 
-10 februari 2022
+10 februari 2022  
 Belajar kelas dicoding
 * belajar repository lagi agak pusing tapi okelah
